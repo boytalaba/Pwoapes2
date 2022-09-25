@@ -1,0 +1,22 @@
+{
+  "CONTRACT_ADDRESS": "0xee24608fB57286A3Ab3076DF7B68A45fd536c586",
+  "SCAN_LINK": "https://www.oklink.com/en/ethw/address/0xee24608fb57286a3ab3076df7b68a45fd536c586",
+  "NETWORK": {
+    "NAME": "Ethereum Pow",
+    "SYMBOL": "ETHW",
+    "ID": 10001
+  },
+  "NFT_NAME": "PowAPES",
+  "SYMBOL": "PowAPES",
+  "MAX_SUPPLY": 3333,
+  "DISPLAY_COST": 0.33,
+  "WEI_COST": "330000000000000000",
+  "GAS_LIMIT": 285000,
+  "MAX_PER_TX": 20,
+  "MARKETPLACE": "PowSEA",
+  "MARKETPLACE_LINK": "https://powsea.finance/",
+  "Telegram": "https://t.me/powAPESNFTS",
+  "Discord": "https://",
+  "Twitter": "https://twitter.com/PowApes",
+  "SHOW_BACKGROUND": false
+}
